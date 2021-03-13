@@ -5,16 +5,16 @@
     "main.js.map": "/todo_list_react_hooks_context/static/js/main.6041a6bb.chunk.js.map",
     "runtime-main.js": "/todo_list_react_hooks_context/static/js/runtime-main.cfed80d5.js",
     "runtime-main.js.map": "/todo_list_react_hooks_context/static/js/runtime-main.cfed80d5.js.map",
-    "static/js/2.e4673994.chunk.js": "/todo_list_react_hooks_context/static/js/2.e4673994.chunk.js",
-    "static/js/2.e4673994.chunk.js.map": "/todo_list_react_hooks_context/static/js/2.e4673994.chunk.js.map",
+    "static/js/2.bbdef906.chunk.js": "/todo_list_react_hooks_context/static/js/2.bbdef906.chunk.js",
+    "static/js/2.bbdef906.chunk.js.map": "/todo_list_react_hooks_context/static/js/2.bbdef906.chunk.js.map",
     "index.html": "/todo_list_react_hooks_context/index.html",
-    "precache-manifest.c12682c71e4ba6a7524cfc781712772e.js": "/todo_list_react_hooks_context/precache-manifest.c12682c71e4ba6a7524cfc781712772e.js",
+    "precache-manifest.3a43e2d68e0958fc8b11f16681a0245f.js": "/todo_list_react_hooks_context/precache-manifest.3a43e2d68e0958fc8b11f16681a0245f.js",
     "service-worker.js": "/todo_list_react_hooks_context/service-worker.js",
     "static/css/main.3535df8c.chunk.css.map": "/todo_list_react_hooks_context/static/css/main.3535df8c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.cfed80d5.js",
-    "static/js/2.e4673994.chunk.js",
+    "static/js/2.bbdef906.chunk.js",
     "static/css/main.3535df8c.chunk.css",
     "static/js/main.6041a6bb.chunk.js"
   ]
