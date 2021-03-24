@@ -5,7 +5,6 @@ import { TodoForm } from "./components/TodoForm/TodoForm";
 
 import "./App.css";
 
-
 const App = () => {
   return (
     <TodoListContextProvider>
